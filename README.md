@@ -1,4 +1,4 @@
-## Hi, I'm Aryan 👋
+## Hi, I'm Aryan
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
@@ -16,13 +16,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-Hi, I'm Aryan — a Computer Science student at the University of Virginia passionate about building scalable backend systems and solving problems with code. My GitHub showcases a mix of real-world engineering projects, machine learning models, and full-stack applications. 
+Hi, I'm Aryan, a CS student at UVA who’s into building cool backend systems, solving real problems with code, and learning by doing. 
 
-Notably, I developed a distributed **Food Ordering System** using Spring Boot, Kafka, Docker, and the Outbox Pattern to demonstrate microservices communication and transactional consistency — a project built from the ground up following Domain-Driven Design. I also created a **UVA Course Picker**, a JavaScript tool that helps students optimize their schedules based on GPA, timing, and professor preferences.
+My GitHub showcases a mix of real-world engineering projects, machine learning models, and full-stack applications. One of my favorites is a distributed **Food Ordering System** using Spring Boot, Kafka, Docker, and the Outbox Pattern. It is all set up using microservices communication and transactional consistency, a project built from the ground up following Domain-Driven Design. I also created a **UVA Course Picker**, a JavaScript tool that helps students optimize their schedules based on GPA, timing, and professor preferences.
 
 In the data science space, I’ve worked on a **Fake News Detection model** and a **Taiwan Bankruptcy Prediction** project using XGBoost, SVM, and PCA to classify companies based on financial indicators. Additionally, I’ve explored event-driven systems in Python, used CNNs for **Traffic Sign Recognition**, and built stock prediction models using KNN, logistic regression, and LSTMs.
 
-I aim to continuously learn and build projects that blend software engineering with data-driven thinking. Thanks for checking out my work!
+I aim to continuously learn and love projects that blend software engineering with data-driven thinking. Thanks for checking out my work!
 
 ## Pinned Projects
 
@@ -56,4 +56,3 @@ A machine learning pipeline using XGBoost, SVM, and PCA to classify companies as
 
 Feel free to connect or check out my work below 👇  
 **Email:** aryan20544@gmail.com  
-**Portfolio:** [aryanthodupunuri.com](https://aryanthodupunuri.com)
