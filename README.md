@@ -1,4 +1,4 @@
-## Hi, I'm Aryan
+## Software Engineer | CS @ UVA | Building with Java, Python & AWS
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
