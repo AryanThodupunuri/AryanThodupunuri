@@ -34,6 +34,10 @@ A backend microservices project built with Java, Spring Boot, Kafka, Docker, and
 
 A JavaScript web app that helps UVA students optimize their course schedules based on GPA, professor ratings, and time preferences.
 
+[SlackLite](https://github.com/AryanThodupunuri/SlackLite)
+
+A real-time messaging app deployed with React (Vercel), FastAPI (Railway), MongoDB Atlas, and AWS S3 for file uploads. Built for low-latency communication with WebSockets.
+
 [Predicting-NBA-Team-Wins-ML](https://github.com/AryanThodupunuri/Predicting-NBA-Team-Wins-ML)
 
 A linear regression model trained on decades of NBA stats to forecast team wins based on point differentials and scoring metrics.
@@ -50,7 +54,7 @@ A Convolutional Neural Network that classifies traffic signs with high accuracy,
 
 A machine learning pipeline using XGBoost, SVM, and PCA to classify companies as bankrupt or not based on financial indicators.
 
-
+Portfolio Website: [https://aryanthodupunuri.vercel.app/](https://aryanthodupunuri.vercel.app/)
 
 ---
 
