@@ -1,4 +1,6 @@
-## Software Engineer | CS @ UVA | Building with Java, Python & AWS
+## CS @ UVA | Building with Java, Python & AWS
+[![Portfolio](https://img.shields.io/badge/Portfolio-aryanthodupunuri.com-green?style=for-the-badge&logo=vercel)](https://vercel.com/aryanthodupunuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-thodupunuri)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
