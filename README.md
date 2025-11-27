@@ -37,6 +37,7 @@ A backend microservices project built with Java, Spring Boot, Kafka, Docker, and
 A JavaScript web app that helps UVA students optimize their course schedules based on GPA, professor ratings, and time preferences.
 
 [News Aggregator](https://github.com/AryanThodupunuri/personal-data-vault)
+
 A real-time news aggregator and analytics platform powered by AI.
 
 [SlackLite](https://github.com/AryanThodupunuri/SlackLite)
