@@ -18,13 +18,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-Hi, I'm Aryan, a CS student at UVA who’s into building cool backend systems, solving real problems with code, and learning by doing. 
+Hi, I’m Aryan. I’m a CS student at UVA who likes building backend systems, solving real problems with code, and learning by building.
 
-My GitHub showcases a mix of real-world engineering projects, machine learning models, and full-stack applications. One of my favorites is a distributed **Food Ordering System** using Spring Boot, Kafka, Docker, and the Outbox Pattern. It is all set up using microservices communication and transactional consistency, a project built from the ground up following Domain-Driven Design. I also created a **UVA Course Picker**, a JavaScript tool that helps students optimize their schedules based on GPA, timing, and professor preferences.
+On my GitHub, you’ll find a mix of software engineering, machine learning, and full-stack projects. One of the projects I’m most proud of is a distributed Food Ordering System built with Spring Boot, Kafka, Docker, and the Outbox Pattern. It’s a microservices-based system focused on reliable communication and transactional consistency, and I built it from the ground up using Domain-Driven Design. I also built a UVA Course Picker, a JavaScript app that helps students optimize their schedules based on GPA, class timing, and professor preferences.
 
-In the data science space, I’ve worked on a **Fake News Detection model** and a **Taiwan Bankruptcy Prediction** project using XGBoost, SVM, and PCA to classify companies based on financial indicators. Additionally, I’ve explored event-driven systems in Python, used CNNs for **Traffic Sign Recognition**, and built stock prediction models using KNN, logistic regression, and LSTMs.
-
-I aim to continuously learn and love projects that blend software engineering with data-driven thinking. Thanks for checking out my work!
+On the data side, I’ve worked on projects like Fake News Detection and Taiwan Bankruptcy Prediction using models such as XGBoost, SVM, and PCA. I’ve also experimented with event-driven systems in Python, CNNs for traffic sign recognition, and stock prediction models using KNN, logistic regression, and LSTMs. I’m always trying to learn more and really enjoy projects that sit at the intersection of software engineering and data-driven thinking. Thanks for checking out my work!
 
 ## Pinned Projects
 
